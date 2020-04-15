@@ -1,0 +1,9 @@
+config:
+  drone-runner:hostUri: drone.lbrlabs.com
+  drone-runner:namespace: drone
+  drone-runner:pluginSecret:
+    secure: AAABAGZE8zGvu0TS+GkCKTVft8yQ8R3tijfSwHoS++Z8cFQRNAcnUNrGxt52rj+FIXGjdchxXwgVRnKFw6zFhA==
+  drone-runner:pulumiToken:
+    secure: AAABAPbWW7SRCK5qjgM9FVJu0FQ+uzTZ/ITmjgF5RjvDuhJyECnaz7nD4VPIGta+eXlf+Ot5NlyNTX1svmY1PtkTjLS8UUlFjA1EHQ==
+  drone-runner:rpcSecret:
+    secure: AAABAJCtASWz8IY3V7ybIOusp0Tqqr11biSOow0LW3YP2wZxsfyjzPbQQy3bw3TF+c4k4dMW/ERannrahRKLDQ==
